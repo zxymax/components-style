@@ -4,7 +4,7 @@
 
 > > [input.html](./search/input.html) [input.css](./search/input.css)
 
-![search](./search/serch.png)
+![search](./search/search.png)
 
 - input
 - svg
